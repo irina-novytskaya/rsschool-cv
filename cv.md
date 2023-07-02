@@ -11,7 +11,7 @@
 * CSS
 * Git
 ## Code Example 
-```javascript
+```       
 const priceCable = 15.678;
 const priceKeyboard = 123.965;
 const priceMouse = 90.2345;
@@ -33,3 +33,5 @@ const sumPrice = (priceCable + priceKeyboard + priceMouse);
   ```
 ## Education
 *Courses: _HTML/CSS and Javascript
+## English
+**A2** _I can have a simple conversation, but I can read not complex texts._
