@@ -10,3 +10,26 @@
 * HTML
 * CSS
 * Git
+## Code Example 
+```javascript
+const priceCable = 15.678;
+const priceKeyboard = 123.965;
+const priceMouse = 90.2345;
+
+//  1.Використовуючи вбудований об'єкт Math – виведіть максимальне число
+
+const maxPrice = Math.max(priceCable, priceKeyboard, priceMouse);
+  console.log(maxPrice);
+
+//  2.Використовуючи вбудований об'єкт Math – виведіть мінімальне число
+
+const minPrice = Math.min(priceCable, priceKeyboard, priceMouse);
+  console.log(minPrice);
+
+//  3.Складіть вартість всіх товарів, помістіть її в змінну та виведіть цю суму\\
+
+const sumPrice = (priceCable + priceKeyboard + priceMouse);
+  console.log(sumPrice)
+  ```
+## Education
+*Courses: _HTML/CSS and Javascript
